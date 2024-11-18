@@ -1,6 +1,6 @@
 # Hi, I'n Breanzy!
 
-- 🌱 Currently learning: MERN Stack Projects
+- 🌱 Currently Developing: XAMPP Peerkada QR Code Attendance System
 
 <br/>
 
