@@ -1,4 +1,4 @@
-# Hi, I'n Breanzy!
+# Hi, I'm Breanzy!
 
 - 🌱 Currently Developing: XAMPP Peerkada QR Code Attendance System || DeepSeek Virtual Assistant Bot
 - 🎓 Currently Learning: Deepseek Models || Hackerank Algorithms
