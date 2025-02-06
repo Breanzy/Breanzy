@@ -1,7 +1,7 @@
 # Hi, I'n Breanzy!
 
-- 🌱 Currently Developing: XAMPP Peerkada QR Code Attendance System
-- 🎓 Currently Learning: Next.JS & Clerk Movie App Project 
+- 🌱 Currently Developing: XAMPP Peerkada QR Code Attendance System || DeepSeek Virtual Assistant Model
+- 🎓 Currently Learning: Deepseek Model
 
 <br/>
 
