@@ -1,12 +1,14 @@
 # Hi, I'n Breanzy!
 
 - 🌱 Currently Developing: XAMPP Peerkada QR Code Attendance System || DeepSeek Virtual Assistant Model
-- 🎓 Currently Learning: Deepseek Model
+- 🎓 Currently Learning: Deepseek Models || Hackerank Algorithms
 
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Breanzy&theme=dark&hide_border=false)
+![Breanzy's Stats](https://github-readme-stats.vercel.app/api?username=Breanzy&theme=react&show_icons=true&hide_border=true&count_private=true)
+![hello](anuraghazra/github-readme-stats)
+![Breanzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Breanzy&theme=react&hide_border=true)
 
 <br/><br/>
 
