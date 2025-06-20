@@ -1,7 +1,7 @@
 # Hi, I'm Breanzy!
 
-- 🌱 Currently Developing: AI PDF Assistant || DeepSeek Virtual Assistant Bot
-- 🎓 Currently Learning: Deepseek Models || Hackerank Algorithms
+- 🌱 Currently Developing: React Mastery Checker
+- 🎓 Currently Learning: AWS-based Project || Hackerank Algorithms
 
 <br/>
 
