@@ -1,7 +1,7 @@
 # Hi, I'm Breanzy!
 
-- 🌱 Currently Developing: React Mastery Checker
-- 🎓 Currently Learning: AWS-based Project || Hackerank Algorithms
+- 🌱 Currently Developing: Yemelay Apartments (Property Management Systems)
+- 🎓 Currently Learning: System Design Architectures
 
 <br/>
 
