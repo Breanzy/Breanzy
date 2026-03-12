@@ -6,8 +6,8 @@
 <br/>
 
 # 📊 GitHub Stats:
-![Breanzy's Stats](https://github-readme-stats.vercel.app/api?username=Breanzy&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Breanzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Breanzy&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=breanzy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=breanzy&theme=dark&hide_border=false)<br/>
 
 <br/><br/>
 
