@@ -1,6 +1,6 @@
 # Hi, I'm Breanzy!
 
-- 🌱 Currently Developing: Yemelay Apartments (Property Management Systems)
+- 🌱 Currently Developing: Doreh (Piano Learning & Rhytm Game App)
 - 🎓 Currently Learning: System Design Architectures
 
 <br/>
