@@ -3,7 +3,7 @@
 - 🌱 Currently Developing:
   - Doreh (Piano Learning & Rhytm Game App)
   - Passabuy (Air Courier & Escrow Service)
-  - Cutmaxx (AR-based self-haircut tutorial app
+  - Cutmaxx (AR-based self-haircut tutorial app)
   - Yemelay Apartments (Scaling to a SaaS model for a Property Management Syatem service)
 
   (P.S. I may or may not have taken in more projects that I could manage what the helly am I doing honestly)
